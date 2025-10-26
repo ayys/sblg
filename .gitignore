@@ -13,3 +13,6 @@ config.log
 sblg
 sblg.1
 version.h
+result
+config.h.old
+config.log.old
